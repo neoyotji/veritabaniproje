@@ -1,0 +1,12 @@
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\bin\Debug\veritabanifinalprojesi.exe
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.csproj.AssemblyReference.cache
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.BankaBilgileri.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.FirmaBilgileri.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.malzemeKayit.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.kullaniciGirisi.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.musteriBilgileri.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.musteriBilgileriii.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.PersonelKayit.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.Properties.Resources.resources
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.csproj.GenerateResource.cache
+C:\Users\Senanur Özbağ\source\repos\veritabanifinalprojesi\veritabanifinalprojesi\obj\Debug\veritabanifinalprojesi.csproj.CoreCompileInputs.cache
